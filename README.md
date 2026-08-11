@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Reynaldo! 👋
 
-<!--
-**ReyCS3/ReyCS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science senior at CSULB (graduating Fall 2026) who loves bridging the gap between software development and mechanical design. 
 
-Here are some ideas to get you started:
+**What I'm up to:**
+*   📱 **Web & Mobile Dev:** Recently completed **Beach Circle**, a full-stack campus community platform built with Flutter and Firebase.
+*   🎮 **Game Development:** Scripting in Lua for Roblox. Currently developing a CAD/3D-printing simulation game.
+*   ⚙️ **Hardware & Prototyping:** 5+ years of experience with 3D printing and mechatronics. I frequently work with Autodesk Fusion 360, Inventor, Arduino, and Raspberry Pi to bring digital designs into the physical world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack & Tools:**
+*   **Languages:** Lua, JavaScript, Dart, C++
+*   **Technologies:** Flutter, Firebase, React, Node.js
+*   **Design & Hardware:** Autodesk Fusion 360, Inventor, OctoEverywhere
