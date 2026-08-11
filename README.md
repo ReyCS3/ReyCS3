@@ -8,6 +8,6 @@ I am a Computer Science senior at CSULB (graduating Fall 2026) who loves bridgin
 *   ⚙️ **Hardware & Prototyping:** 5+ years of experience with 3D printing and mechatronics. I frequently work with Autodesk Fusion 360, Inventor, Arduino, and Raspberry Pi to bring digital designs into the physical world.
 
 **Tech Stack & Tools:**
-*   **Languages:** Lua, JavaScript, Dart, C++
+*   **Languages:** Lua, JavaScript, Dart, C++, Python
 *   **Technologies:** Flutter, Firebase, React, Node.js
 *   **Design & Hardware:** Autodesk Fusion 360, Inventor, OctoEverywhere
